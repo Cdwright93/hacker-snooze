@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(119, 119, 119);
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+}
+
+ul {
+  list-style-type: none;
+  background-color: rgb(197, 197, 197);
+  border-radius: 25px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+li {
+  display: block;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid black;
+}
